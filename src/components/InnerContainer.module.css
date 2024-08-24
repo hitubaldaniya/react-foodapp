@@ -1,0 +1,6 @@
+.innerContainer {
+    /* background-color: aqua; */
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
