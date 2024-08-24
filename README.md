@@ -1,8 +1,30 @@
-# React + Vite
+# FoodApp (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+================
 
-Currently, two official plugins are available:
+This app provides a list of food recipes by conducting a search.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Clone Todo App
+
+- git clone https://github.com/hitubaldaniya/react-foodapp.git
+
+## Install requrie modules
+
+- cd React-Todo
+- npm install
+
+## Run project
+
+- npm run dev
+
+## Open project in browser
+
+- [http://localhost:5173/](http://localhost:5173/)
+
+### App View
+
+![Food List](https://raw.githubusercontent.com/hitubaldaniya/react-foodapp/main/src/images/item-list.png)
+
+![Food Detail View](https://raw.githubusercontent.com/hitubaldaniya/react-foodapp/main/src/images/item-details-1.png)
+
+![Food Detail View](https://raw.githubusercontent.com/hitubaldaniya/react-foodapp/main/src/images/item-details-2.png)
